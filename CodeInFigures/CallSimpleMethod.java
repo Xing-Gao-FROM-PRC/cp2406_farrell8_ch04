@@ -1,7 +1,5 @@
-public class CallSimpleMethod
-{
-   public static void main(String[] args)
-   {
+public class CallSimpleMethod {
+   public static void main(String[] args) {
        double doubleValue = 45.67;
        int intValue = 17;
        simpleMethod(doubleValue);

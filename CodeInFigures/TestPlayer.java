@@ -1,7 +1,5 @@
-public class TestPlayer
-{
-   public static void main(String[] args)
-   {
+public class TestPlayer {
+   public static void main(String[] args) {
       BaseballPlayer aCatcher = new BaseballPlayer(12, .218);
       BaseballPlayer aShortstop = new BaseballPlayer(31, .385);
       aCatcher.showPlayer();

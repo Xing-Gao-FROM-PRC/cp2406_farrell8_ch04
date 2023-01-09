@@ -1,9 +1,7 @@
 import java.time.*;
 import java.util.Scanner;
-public class DeliveryDate
-{
-   public static void main(String[] args)
-   {
+public class DeliveryDate {
+   public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
       LocalDate orderDate;
       int mo;
